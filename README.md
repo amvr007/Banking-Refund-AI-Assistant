@@ -1,4 +1,4 @@
-# Banking Transaction Disputes AI assistant 
+# Banking Transaction Disputes AI ass
 ---
 
 **Automate 70% of customer refund requests** with AI that works 24/7. Eliminate costly human errors, reduce response times from hours to seconds, and **cut customer service costs.**
