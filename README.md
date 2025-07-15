@@ -41,7 +41,7 @@
 ---
 
 ## Workflow Chart:
-![wrkflow](./worfklowchart.png)
+![wrkflow](C:\Users\Ammar\Desktop\ML\Agents\Banking Assistant\workflowchart.png)
 
 
 ## Example Workflow: 
