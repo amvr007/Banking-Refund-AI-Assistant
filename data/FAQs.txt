@@ -1,0 +1,22 @@
+[
+  {
+    "question": "I paid someone but they didn’t get the money. What now?",
+    "answer": "If it’s our fault, we’ll refund you within 5 business days after checking."
+  },
+  {
+    "question": "I was charged twice for the same payment. Can I get my money back?",
+    "answer": "Report duplicate payments within 48 hours. We’ll investigate and refund if valid."
+  },
+  {
+    "question": "The recipient says they refunded me, but I don’t see it yet.",
+    "answer": "Refunds from merchants can take up to 7 business days to show up. Contact support if it’s delayed."
+  },
+  {
+    "question": "I sent money to the wrong person by mistake. Can you cancel it?",
+    "answer": "Payments you authorize can’t be reversed. Always double-check details before sending."
+  },
+  {
+    "question": "How long do I have to report a problem?",
+    "answer": "You must notify us within 30 days of the payment date."
+  }
+]

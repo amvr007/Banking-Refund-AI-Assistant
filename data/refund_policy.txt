@@ -1,0 +1,20 @@
+Banked Refund Policy
+
+Eligibility for Refunds:
+- Refunds are available for transactions that fail due to system errors or processing failures.
+- Duplicate charges identified within 48 hours are eligible for refund.
+- Merchant refunds not reflected within 7 business days can be escalated for investigation.
+
+Non-Refundable Situations:
+- Transfers made to incorrect accounts due to user error are non-refundable.
+- Authorized transactions completed successfully cannot be reversed.
+- Refund requests submitted after 30 days from the transaction date will not be accepted.
+
+Refund Process:
+- Customers must report disputes via Banked’s customer support within 30 days.
+- Refunds will be processed within 5 business days after verification.
+- Refunds will be credited back to the original payment source.
+
+Limits and Conditions:
+- Refund amount per transaction is capped at $15,000.
+- Banked reserves the right to reject any refund request deemed fraudulent or suspicious.
