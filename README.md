@@ -1,11 +1,11 @@
-#Banking Transaction Disputes AI assistant 
+# Banking Transaction Disputes AI assistant 
 ---
 
 **Automate 70% of customer refund requests** with AI that works 24/7. Eliminate costly human errors, reduce response times from hours to seconds, and **cut customer service costs.**
 
 ---
 
-##Business Impact:
+## Business Impact:
 
 * 60-80% reduction in customer service workload
 * 24/7 availability without additional staffing
@@ -14,7 +14,7 @@
 
 ---
 
-##Perfect For:
+## Perfect For:
 
 * E-commerce businesses with high refund volumes
 * Subscription services with complex policies
@@ -24,7 +24,7 @@
 
 ---
 
-##Key Features: 
+## Key Features: 
 
 ✓ Natural conversation understanding
 ✓ Automatic eligibility classification
@@ -35,7 +35,7 @@
 
 ---
 
-##Example Workflow: 
+## Example Workflow: 
 
 1. **START** → System receives customer message
 1. Classify Refund Eligibility → Agent analyzes message and determines this is a refund-related request
