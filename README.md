@@ -40,21 +40,26 @@
 
 ---
 
+## Workflow Chart:
+![wrkflow](./worfklowchart.png)
+
+
 ## Example Workflow: 
 
-1. **START** → System receives customer message
-1. Classify Refund Eligibility → Agent analyzes message and determines this is a refund-related request
-1. Refundable? → System checks if headphones are eligible for refunds → YES (Refundable)
-1. Classify Intent → Agent determines customer wants to process a return/refund
-1. Intent Recognized? → System confirms it understands the refund request → YES
-1. Extract Transaction ID → Agent asks "Can you provide your order number?" or searches based on customer info
-1. Fetch Transaction Details → System retrieves order information from database
-1. Evaluate Refund Status → Agent checks purchase date, product condition, policy compliance
-1. Final Decision? → System determines outcome → APPROVED
-1. Give Reply - Confirm Approval → Agent responds: "Your refund has been approved. $89.99 will be credited to your original payment method within 3-5 business days."
-1. **END** → Conversation completes successfully
+1. **START** **→** System receives customer message
+1. Classify Refund Eligibility **→** Agent analyzes message and determines this is a refund-related request
+1. Refundable? **→** System checks if headphones are eligible for refunds **→** YES (Refundable)
+1. Classify Intent **→** Agent determines customer wants to process a return/refund
+1. Intent Recognized? **→** System confirms it understands the refund request **→** YES
+1. Extract Transaction ID **→** Agent asks "Can you provide your order number?" or searches based on customer info
+1. Fetch Transaction Details **→** System retrieves order information from database
+1. Evaluate Refund Status **→** Agent checks purchase date, product condition, policy compliance
+1. Final Decision? **→** System determines outcome **→** APPROVED
+1. Give Reply - Confirm Approval **→** Agent responds: "Your refund has been approved. $89.99 will be credited to your original payment method within 3-5 business days."
+1. **END** **→** Conversation completes successfully
 
 ---
 
-**Total Process Time**: 60-90 seconds with full policy compliance and customer satisfaction
-This demonstrates how the agent handles the complete refund lifecycle **autonomously** while maintaining **accuracy** and **professional communication.**
+**Total Process Time**: 60-90 seconds with full policy compliance and customer satisfaction     
+
+This demonstrates how the agent handles the complete refund lifecycle **autonomously** while maintaining **accuracy** and    **professional communication.**
