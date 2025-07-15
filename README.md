@@ -26,11 +26,16 @@
 
 ## Key Features: 
 
-✅ Natural conversation understanding
-✅ Automatic eligibility classification
-✅ Instant transaction lookup
-✅ Policy-compliant responses
-✅ Multi-turn conversation handling
+✅ Natural conversation understanding  
+
+✅ Automatic eligibility classification  
+
+✅ Instant transaction lookup  
+
+✅ Policy-compliant responses  
+
+✅ Multi-turn conversation handling  
+
 ✅ Peak hour availability
 
 ---
