@@ -1,20 +1,40 @@
-Banked Refund Policy
+REFUND POLICY
 
-Eligibility for Refunds:
-- Refunds are available for transactions that fail due to system errors or processing failures.
-- Duplicate charges identified within 48 hours are eligible for refund.
-- Merchant refunds not reflected within 7 business days can be escalated for investigation.
+REFUNDABLE (Automatic Approval)
+System/Technical Issues:
+- Transaction failed due to system error
+- Payment processed but service not delivered
+- Duplicate charges (same amount, same merchant, within 48 hours)
+- Merchant refund promised but not received within 7 business days
 
-Non-Refundable Situations:
-- Transfers made to incorrect accounts due to user error are non-refundable.
-- Authorized transactions completed successfully cannot be reversed.
-- Refund requests submitted after 30 days from the transaction date will not be accepted.
+Criteria Check:
+- Error code present in transaction log
+- Transaction status = "failed" or "incomplete"
+- Duplicate transaction IDs detected
+- Merchant refund date > 7 business days ago
 
-Refund Process:
-- Customers must report disputes via Banked’s customer support within 30 days.
-- Refunds will be processed within 5 business days after verification.
-- Refunds will be credited back to the original payment source.
+NON-REFUNDABLE (Automatic Denial)
+User Error/Completed Transactions:
+- Transfer to wrong account (user entered incorrect details)
+- Successfully completed authorized transactions
+- Requests submitted > 30 days after transaction date
+- Transaction amount > $15,000
 
-Limits and Conditions:
-- Refund amount per transaction is capped at $15,000.
-- Banked reserves the right to reject any refund request deemed fraudulent or suspicious.
+Fraud/Suspicious Activity:
+- Multiple refund requests for same transaction
+- Customer history shows suspicious patterns
+- Transaction flagged in fraud detection system
+
+ESCALATION REQUIRED (Human Review)
+Gray Area Cases:
+- Refund amount = $15,000 exactly
+- Request submitted on day 30
+- Merchant dispute with conflicting evidence
+- Suspected fraud but unclear evidence
+
+QUICK CLASSIFICATION RULES
+1. System error + < 30 days = REFUNDABLE
+2. User error = NON-REFUNDABLE
+3. > 30 days = NON-REFUNDABLE
+4. > $15,000 = NON-REFUNDABLE
+5. Fraud flags = ESCAL

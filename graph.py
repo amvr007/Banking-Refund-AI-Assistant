@@ -6,7 +6,7 @@ from nodes.transactions import fetch_transaction_node, extract_transaction_id_no
 from nodes.conversation import detect_unclear_request, generate_clarification_questions, process_clarification_response
 from utils.routers import route_by_classification, route_by_intent, route_to_reply, route_by_clarity, route_after_clarification_check
 from nodes.reply import give_user_reply
-from utils.query_engine import query_engine
+from query_engine import query_engine
 
 
 graph_builder = StateGraph(State)

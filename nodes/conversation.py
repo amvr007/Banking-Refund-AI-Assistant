@@ -1,6 +1,6 @@
 from core.state import State
 from langchain_core.messages import AIMessage
-from utils.query_engine import query_engine
+from query_engine import query_engine
 from typing import Dict, Any
 
 def detect_unclear_request(state, query_engine):

@@ -1,0 +1,27 @@
+ai-refund-system/
+├── agents/
+│   ├── manager/
+│   │   ├── nodes/
+│   │   │   ├── conversation.py
+│   │   │   ├── classification.py
+│   │   │   └── delegation.py
+│   │   ├── graph.py
+│   │   └── state.py
+│   └── refund_processor/
+│       ├── nodes/
+│       │   ├── transaction.py
+│       │   ├── evaluation.py
+│       │   └── decision.py
+│       ├── graph.py
+│       └── state.py
+├── core/
+│   ├── orchestrator.py  # Main router
+│   └── shared_state.py
+├── utils/
+│   ├── query_engine.py  # RAG for manager
+│   └── database.py
+├── data/
+│   ├── policies/
+│   └── faqs/
+├── main.py
+└── frontend.py
